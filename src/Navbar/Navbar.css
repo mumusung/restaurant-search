@@ -1,0 +1,11 @@
+.navbar-background{
+    background-color: #134B8A;
+    border: 2px solid red;
+    width: 100vw;
+    height: 10vh;
+}
+.navbar-menu{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
